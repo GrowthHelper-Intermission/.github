@@ -1,7 +1,7 @@
 <div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:99cc99,100:009630&height=200&section=header&text=Intermission&fontSize=90" /></div>
 
 
-# 👋🏻 팀원 소개
+# 👋🏻 Members
 
 ## Front-End
 
@@ -73,10 +73,10 @@
 ---
 
 
-## 프로젝트 구조도
+# ❇️ Intermission Architecture
 ![스크린샷 2023-12-07 오전 1 45 43](https://github.com/GrowthHelper-Intermission/.github/assets/106448279/8c300134-5a09-4662-b31a-814281d56e13)
 
-## 서버 세부 구조도
+## Server Architecture
 윤환쓰:)
 
 현재 TestFlight에 배포 이후 QA 진행중, 아래부분은 앱 출시 이후 한번에 작성 예정:)
