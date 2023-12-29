@@ -77,9 +77,7 @@
 ![스크린샷 2023-12-07 오전 1 45 43](https://github.com/GrowthHelper-Intermission/.github/assets/106448279/8c300134-5a09-4662-b31a-814281d56e13)
 
 ## Server Architecture
-윤환쓰:)
-
-현재 TestFlight에 배포 이후 QA 진행중, 아래부분은 앱 출시 이후 한번에 작성 예정:)
+![스크린샷 2023-12-06 오후 11 44 03](https://github.com/GrowthHelper-Intermission/.github/assets/147581818/eef5bfa5-7f83-4772-8d0a-6a4bdb495375)
 ---
 
 ## 1. 프로젝트 명
