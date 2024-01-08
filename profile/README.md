@@ -84,11 +84,21 @@
 
 ## 2. 프로젝트 소개
 
-## 3. 시연
 
-### 💻 시연 영상
 
-### Screenshots
+## 3. Screenshots
+<p align="center" width="100%">
+<img width="32.9%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/afcf6667-38d7-4919-a39a-79f44b489725">
+<img width="32.9%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/69818e49-7bc3-43ac-9a80-058c20cede1c">
+<img width="32.9%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/9396fe2f-5cf9-4157-b3a3-1178fb166b23">
+</p>
+<p align="center" width="100%">
+<img width="32.9%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/09d3c0eb-e77c-409a-bbd8-0f3b98341d4c">
+<img width="32.9%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/22235819-55af-4a92-9cb6-95b494fa42f3">
+<img width="32.9%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/2136fd4f-47bb-4160-a4a5-e2ade0d409e3">
+</p>
+<img width="45%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/a1217a4c-073d-46b8-b5a9-e51e0f60fa04">
+<img width="45%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/6782b97e-778d-4751-bdac-5951e05377d8">
 
 ## 4. Lisence
 ---
