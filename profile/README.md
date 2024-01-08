@@ -80,13 +80,7 @@
 ![스크린샷 2023-12-06 오후 11 44 03](https://github.com/GrowthHelper-Intermission/.github/assets/147581818/eef5bfa5-7f83-4772-8d0a-6a4bdb495375)
 ---
 
-## 1. 프로젝트 명
-
-## 2. 프로젝트 소개
-
-
-
-## 3. Screenshots
+## Screenshots
 <p align="center" width="100%">
 <img width="32.9%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/afcf6667-38d7-4919-a39a-79f44b489725">
 <img width="32.9%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/69818e49-7bc3-43ac-9a80-058c20cede1c">
@@ -100,7 +94,9 @@
 <img width="45%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/a1217a4c-073d-46b8-b5a9-e51e0f60fa04">
 <img width="45%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/6782b97e-778d-4751-bdac-5951e05377d8">
 
-## 4. Lisence
+## Functions
+
+## Copyright © 2024
 ---
 
 
