@@ -31,17 +31,17 @@
 
 ## Front-End
 
-| 이름                                         | 전공           | 학번   | Email | 역할   |             
+| 이름                                           | 전공           | 학번    | Email | 역할   |             
 | -------------------------------------------- | -------------- | ------ | -------------------- | ------ |
-| 이도형      | 컴퓨터공학전공 | 20학번 | rlrlfhtm5@gmail.com | Intermission-Client(Android/iOS) |
-| 김건휘 | 멀티미디어소프트웨어공학전공     | 18학번 |  kimkeonhwi991231@gmail.com | Admin-Page |
+| 이도형      | 컴퓨터공학전공 | 20학번   | rlrlfhtm5@gmail.com | Intermission-Client(Android/iOS) |
+| 김건휘   | 멀티미디어소프트웨어공학전공     | 18학번   |  kimkeonhwi991231@gmail.com | Admin-Page |
 
 ##  Back-End
 
-| 이름                                      | 전공           | 학번   | Email               | 역할   |
+| 이름                                        | 전공           | 학번    | Email               | 역할   |
 | ----------------------------------------- | -------------- | ------ | ------------------- | ------ |
-| 전윤환      | 산업시스템공학전공 | 18학번 | jeonyunhwan@gmail.com | Intermission-Server |
-| 박민제 | 컴퓨터공학전공     | 19학번 |  pmj6823@dgu.ac.kr | Admin-Server |
+| 전윤환      | 산업시스템공학전공 | 18학번   | jeonyunhwan@gmail.com | Intermission-Server |
+| 박민제   | 컴퓨터공학전공     | 19학번   |  pmj6823@dgu.ac.kr | Admin-Server |
 
 # 🛠️ Tech Stack 🛠️
 
@@ -103,7 +103,7 @@
 ![스크린샷 2023-12-07 오전 1 45 43](https://github.com/GrowthHelper-Intermission/.github/assets/106448279/8c300134-5a09-4662-b31a-814281d56e13)
 
 # Server Architecture
-![스크린샷 2023-12-06 오후 11 44 03](https://github.com/GrowthHelper-Intermission/.github/assets/147581818/eef5bfa5-7f83-4772-8d0a-6a4bdb495375)
+![스크린샷 2023-12-06 오후 11 44 03](https://github.com/GrowthHelper-Intermission/.github/assets/147581818/eef5bfa5-7f83-4772-8d0a-6a4bdb495375)
 ---
 
 
