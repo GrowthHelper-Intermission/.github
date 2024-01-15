@@ -33,15 +33,15 @@
 
 | 이름                                           | 전공           | 학번    | Email | 역할   |             
 | -------------------------------------------- | -------------- | ------ | -------------------- | ------ |
-| 이도형      | 컴퓨터공학전공 | 20학번   | rlrlfhtm5@gmail.com | Intermission-Client(Android/iOS) |
-| 김건휘   | 멀티미디어소프트웨어공학전공     | 18학번   |  kimkeonhwi991231@gmail.com | Admin-Page |
+| 이도형      | 컴퓨터공학전공 | 20학번   | rlrlfhtm5@gmail.com | Client(Android/iOS), Admin(Web)   |
+| 김건휘      | 멀티미디어소프트웨어공학전공     | 18학번   |  kimkeonhwi991231@gmail.com | Admin(Web)  | 
 
 ##  Back-End
 
 | 이름                                        | 전공           | 학번    | Email               | 역할   |
 | ----------------------------------------- | -------------- | ------ | ------------------- | ------ |
-| 전윤환      | 산업시스템공학전공 | 18학번   | jeonyunhwan@gmail.com | Intermission-Server |
-| 박민제   | 컴퓨터공학전공     | 19학번   |  pmj6823@dgu.ac.kr | Admin-Server |
+| 전윤환      | 산업시스템공학전공 | 18학번   | jeonyunhwan@gmail.com | Server |
+| 박민제      | 컴퓨터공학전공     | 19학번   |  pmj6823@dgu.ac.kr | Admin-Server |
 
 # 🛠️ Tech Stack 🛠️
 
@@ -60,8 +60,8 @@
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white/">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white/">
-</div>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+<div>
 
 ## Stack
 
@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white/">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <br>
     <!-- Backend 추가 -->
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
