@@ -33,7 +33,7 @@
 <img width="27%" src = "https://github.com/GrowthHelper-Intermission/.github/assets/106448279/6782b97e-778d-4751-bdac-5951e05377d8">
 </p>
 
-## Prize
+## 🏆 Award
 <img src="https://github.com/user-attachments/assets/7b8efb8c-4392-4961-8124-384ef5154942" width="500"/>
 
 ## Members
